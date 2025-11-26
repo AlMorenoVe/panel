@@ -1,9 +1,9 @@
 
 
 // --- CONFIGURACIÓN ---
-const SB_URL = "https://ndqzyplsiqigsynweihk.supabase.co";
-const SB_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5kcXp5cGxzaXFpZ3N5bndlaWhrIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1ODQyOTQ4MiwiZXhwIjoyMDc0MDA1NDgyfQ.LYocdE6jGG5B-0n_2Ke0nUpkrAKC7iBBRV7RmgjATD8";
-const BUCKET_NAME = "donde_peter";
+const SB_URL = "https://fihiksdyshhpydzanwlf.supabase.co";
+const SB_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZpaGlrc2R5c2hocHlkemFud2xmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQxODY4MzUsImV4cCI6MjA3OTc2MjgzNX0.ur-ISSzXVTqKLx_ed_VEeGX0HaPh-J6tALWQwwJW14Y";
+const BUCKET_NAME = "images";
 const BASE_API = `${SB_URL}/rest/v1`;
 const AUTH_API = `${SB_URL}/auth/v1`;
 const STORAGE_PUBLIC_BASE = `${SB_URL}/storage/v1/object/public/${BUCKET_NAME}`;
